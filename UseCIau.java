@@ -1,5 +1,5 @@
 public class UseCIau {
     public static void main(String[] args) {
-        System.out.println("Hello, Maiale da branch!, porco!!");
+        System.out.println("Hello, World!");
     }
 }
